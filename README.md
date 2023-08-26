@@ -1,14 +1,16 @@
-This Flutter-based project showcases a simple yet engaging dice roller app. With just a tap of a button, users can roll the dice and experience the thrill of randomness as the app generates and displays random dice faces. The intuitive interface and smooth animations make it a delightful virtual dice rolling experience. Whether you need a virtual dice for your board games or just some spontaneous decision-making, the Dice Roller App has got you covered.
+# first_app
 
-Key Features:
+A new Flutter project.
 
-Built using the Flutter framework.
-Interactive "Roll Dice" button for generating random dice faces.
-Smooth animations that replicate real-world dice rolling.
-A fun and practical tool for games and decisions.
-Explore the world of random outcomes with this easy-to-use Dice Roller App built on Flutter. Roll the dice and let the virtual randomness guide your way!
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-https://github.com/aftabyo/Dice-Roller-App-using-Flutter/assets/86048783/7dfde534-ef05-45a8-bfb1-c672dbb4d656
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
